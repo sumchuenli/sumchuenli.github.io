@@ -23,7 +23,7 @@ sass:
     style: compressed
 
 exclude: [vendor]
-=======
+
 remote_theme: mkchoi212/paper-jekyll-theme
 plugins:
   - jekyll-feed
