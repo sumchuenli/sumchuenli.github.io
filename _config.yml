@@ -15,6 +15,7 @@ google_analytics_id: UA-1111111111-1
 disqus_id:
 
 # Build settings
+<<<<<<< HEAD
 include: [_pages]
 markdown: kramdown
 permalink: /:year/:month/:title.html
@@ -23,4 +24,9 @@ sass:
     style: compressed
 
 exclude: [vendor]
+=======
+theme: remote_theme: mkchoi212/paper-jekyll-theme
+plugins:
+  - jekyll-feed
+>>>>>>> 1c62ee2ec81459141cf8dcf28db910454020f7cb
 
