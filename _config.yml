@@ -28,5 +28,5 @@ remote_theme: mkchoi212/paper-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
->>>>>>> 448b022cfe10265814292a612ceb1dda23ad6125
+
 
