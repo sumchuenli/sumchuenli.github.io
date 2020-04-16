@@ -15,11 +15,13 @@
     h1 {
         font-size: 2em;
         color: $c-base__02;
+        float: left;
     }
 
     ul {
         margin-top: 10px;
         display: block;
+        float: right;
     }
 }
 
