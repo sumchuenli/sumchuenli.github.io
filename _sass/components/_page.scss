@@ -2,28 +2,31 @@
    Page
    ========================================================================== */
 
+ .header {
+     padding-bottom: 30px; // 100px
+     display: flex;
+     justify-content: space-between;
+     align-items: baseline;
+
+     h1 {
+         font-size: 5em;
+         color: $c-base__02;
+         float: left;
+     }
+
+     p {
+         font-size: 2em;
+         margin-top: 10px;
+         display: block;
+         float: right;
+     }
+ }
+
 .c-page {
 
 }
 
-.c-page__header {
-    margin-bottom: 6rem; // 100px
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
 
-    h1 {
-        font-size: 2em;
-        color: $c-base__02;
-        float: left;
-    }
-
-    p {
-        margin-top: 10px;
-        display: block;
-        float: right;
-    }
-}
 
 .c-page__footer {
     margin-bottom: 10rem;
