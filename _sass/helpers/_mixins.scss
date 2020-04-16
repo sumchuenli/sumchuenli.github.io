@@ -38,6 +38,7 @@
 @mixin fs--heading-2 {
     line-height: 1.5;
     font-size: 3.0rem; // 24px
+    font-weight: 300%;
 }
 
 @mixin fs--heading-3 {
