@@ -10,14 +10,11 @@
     margin-bottom: 6rem; // 100px
 
     h1 {
-        float: left;
         @include fs--heading-2;
         color: $c-base__02;
     }
 
     p {
-        float: right;
-        vertical-align:baseline;
         @include fs--meta;
     }
 }
