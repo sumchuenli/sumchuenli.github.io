@@ -9,13 +9,13 @@
      align-items: baseline;
 
      .title {
-         font-size: 5em;
+         font-size: 3em;
          font-weight: bold;
          color: $c-base__02;
          float: left;
      }
 
-     p {
+     .nav {
          font-size: 1.8em;
          margin-top: 10px;
          display: block;
