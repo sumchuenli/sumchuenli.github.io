@@ -1,5 +1,5 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: Sum Chuen (Sonder) Li
 description: hello
   Write a description of your website here.
 
@@ -28,5 +28,3 @@ remote_theme: mkchoi212/paper-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-
