@@ -17,6 +17,7 @@
 
     p {
         float:right;
+        vertical-align:baseline;
         @include fs--meta;
     }
 }
