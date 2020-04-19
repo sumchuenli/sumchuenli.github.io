@@ -54,7 +54,6 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <li>Location. Have my own room, possibly moving to dorms next year!</li>
     <li>Tangibles. Buying second hand things and keeping things minimal.</li>
     <li>Memories. Collecting photos, journal entries and music, this is how I remembering things.</li>
-    <li>Books. I love books, but most of them are in my Kindle.</li>
     </ul></td>
   </tr>
 </table>
@@ -113,9 +112,13 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal</td>
+    <td>My goal is to be disciplined in work.</td>
     <td>My purpose is to labour efficiently and effectively.</td>
-    <td>I prepare</td>
+    <td><ul>
+    <li>Time. Committed to working deeply for 3 hours everyday.</li>
+    <li>Attention. Removing any distractions while working by using RescueTime and Google Calendar.</li>
+    <li>Intensity. Having a morning ritual to get into flow state quickly.</li>
+    </ul></td>
   </tr>
 </table>
 
@@ -123,9 +126,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal</td>
+    <td>My goal is to be able to learn quickly and well.</td>
     <td>My purpose is to learn and become more skilful, that is the subject of labour.</td>
-    <td>I prepare</td>
+    <td><ul>
+    <li>Feynman. Using the Feynman technique to explain things well.</li>
+    <li>Roam. Using Roam Research to make connections between bits of information.</li>
+    <li>Debate. Using knowledge to apply to different problems and explore the nuances of the knowledge.</li>
+    <li>Read. Using only the most important materials and reading with special techniques.</li>
+    </ul></td>
   </tr>
 </table>
 
