@@ -50,6 +50,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td>My goal is to build a home filled with my favourite things and people.</td>
     <td>The purpose is to experience a joy that rests, to celebrate life as it is.</td>
     <td><ul>
+    <li>Sleep. Follow a regular sleep schedule that allows for 8 hours rest.</li>
     <li>Location. Have my own room, possibly moving to dorms next year!</li>
     <li>Tangibles. Buying second hand things and keeping things minimal.</li>
     <li>Memories. Collecting photos, journal entries and music, this is how I remembering things.</li>
@@ -71,7 +72,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td><ul>
     <li>Interaction. Prioritising real conversation over social media.</li>
     <li>Schedule. Always schedule the next meet up after seeing friends.</li>
-    <li>Initiate. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>
+    <li>Initiate. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>  
     </ul></td>
   </tr>
 </table>
