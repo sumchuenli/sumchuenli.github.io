@@ -5,11 +5,11 @@ permalink: /life/
 
 This is a comprehensive snapshot of my life and it is inspired by [Alex Vermeer](https://alexvermeer.com/life-hacking/).
 
-My life is about <a href="#live>living</a>, loving and labouring meaningfully. It is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
+My life is about <a href="#live">living</a>, loving and labouring meaningfully. It is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
 
 ----
 
-<a id="live">Live</a>
+<a id="live" class="no-nov">Live</a>
 
 1.	Hike. To rely on the physical self, the potential within us that comes from living.
 2.	Harvest. To live in a way that respects natural systems and achieves abundance.
