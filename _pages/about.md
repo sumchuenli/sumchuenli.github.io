@@ -141,7 +141,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal</td>
+    <td>My goal is to be an academic that promotes justice through law.</td>
     <td>My purpose is to effect positive change, that is the reward of labour.</td>
     <td>I prepare</td>
   </tr>
