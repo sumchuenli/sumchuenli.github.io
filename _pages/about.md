@@ -13,7 +13,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <th>Hike</th>
+    <th colspan="2">Hike</th>
   </tr>
   <tr>
     <td style="padding:5px 5px 5px 5px">My goal is to go on backpack across a trail in the United States.</td>
