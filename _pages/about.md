@@ -9,7 +9,7 @@ My life is about <a href="#live">living</a>, loving and labouring meaningfully. 
 
 ----
 
-<a id="live" class="no-nov">Live</a>
+## <a id="live" class="no-nov">Live</a>
 
 1.	Hike. To rely on the physical self, the potential within us that comes from living.
 2.	Harvest. To live in a way that respects natural systems and achieves abundance.
