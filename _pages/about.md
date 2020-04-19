@@ -16,25 +16,25 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <th colspan="3">Hike</th>
   </tr>
   <tr>
-    <td style="padding:5px 5px 5px 5px">My goal is to go on backpack across a trail in the United States.</td>
-    <td style="padding:5px 5px 5px 5px">The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
-    <td style="padding:5px 5px 5px 5px">I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
+    <td>My goal is to go on backpack across a trail in the United States.</td>
+    <td>The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
+    <td>I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
   </tr>
   <tr>
     <th colspan="3">Harvest</th>
   </tr>
   <tr>
-    <td style="padding:5px 5px 5px 5px">My goal is to cultivate a self-sustainable garden that provides food and medicine.</td>
-    <td style="padding:5px 5px 5px 5px">The purpose is to live in a way that respects natural systems and achieves abundance.</td>
-    <td style="padding:5px 5px 5px 5px">I prepare for this by cooking fresh foods and taking steps to monitor my resource consumption.</td>
+    <td>My goal is to cultivate a self-sustainable garden that provides food and medicine.</td>
+    <td>The purpose is to live in a way that respects natural systems and achieves abundance.</td>
+    <td>I prepare for this by cooking fresh foods and taking steps to monitor my resource consumption.</td>
   </tr>
   <tr>
     <th colspan="3">Home</th>
   </tr>
   <tr>
-    <td style="padding:5px 5px 5px 5px">My goal is to build a home or cafe where people can relax.</td>
-    <td style="padding:5px 5px 5px 5px">The purpose is to experience a joy that rests, to celebrate life as it is.</td>
-    <td style="padding:5px 5px 5px 5px">I prepare for this by having a rest routine and cleaning my room.</td>
+    <td>My goal is to build a home or cafe where people can relax.</td>
+    <td>The purpose is to experience a joy that rests, to celebrate life as it is.</td>
+    <td>I prepare for this by having a rest routine and cleaning my room.</td>
   </tr>
 </table>
 
