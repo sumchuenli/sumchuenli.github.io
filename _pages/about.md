@@ -66,9 +66,13 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is</td>
+    <td>My goal is maintain close friendship with 12 people maximum, to respect them such that we are able to share our stories and trust each other such that we share parts of our lives together.</td>
     <td>The purpose is to love closed ones by sharing life together.</td>
-    <td>I prepare for this by.</td>
+    <td><ul>
+    <li>Interaction. Prioritising real conversation over social media.</li>
+    <li>Schedule. Always schedule the next meet up after seeing friends.</li>
+    <li>Initiate. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>
+    </ul></td>
   </tr>
 </table>
 
