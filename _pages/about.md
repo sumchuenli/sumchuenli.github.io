@@ -11,6 +11,8 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 ## <a id="live" class="no-hov">Live</a>
 
+### Hike
+
 <table style="width:100%">
   <tr>
     <th colspan="3" style="letter-spacing:0.2rem">HIKE</th>
