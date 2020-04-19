@@ -17,7 +17,13 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
   <tr>
     <td>My goal is to go on backpack across a trail in the United States.</td>
     <td>The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
-    <td>I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
+    <td><ul>
+    <li>Run. Usually around the block. Preferably on the trail. My longest road race is 10km.</li>
+    <li>Warm up. Following the Mueller system.</li>
+    <li>Cross training. Used to be a Crossfit regular, now I skip rope or do bodyweight circuit training.</li>
+    <li>Sports. I enjoy playing badminton and table tennis.</li>
+    <li>Chores. Doing chores is a good way to get up and about.</li>
+    </ul></td>
   </tr>
 </table>
 
