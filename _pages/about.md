@@ -16,13 +16,21 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <th>Hike</th>
   </tr>
   <tr>
-    <td> My goal is to go on a thru-hike on a trail in the United States.</td>
-    <td> The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
-    <td> I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
+    <td style="padding:5px 5px 5px 5px">My goal is to go on backpack across a trail in the United States.</td>
+    <td>The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
+    <td>I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
+  </tr>
+  <tr>
+    <th>Harvest</th>
+  </tr>
+  <tr>
+    <td>My goal is to cultivate a self-sustainable garden that provides food and medicine.</td>
+    <td>The purpose is to live in a way that respects natural systems and achieves abundance.</td>
+    <td>I prepare for this by cooking fresh foods and taking steps to monitor my resource consumption.</td>
   </tr>
 </table>
 
-2.	Harvest. To live in a way that respects natural systems and achieves abundance.
+2.	Harvest. T
 3.	Home. To experience a joy that rests, to celebrate life as it is.
 
 ----
