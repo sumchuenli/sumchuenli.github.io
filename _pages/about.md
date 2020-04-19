@@ -72,12 +72,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is maintain close friendship with 12 people maximum, to respect them such that we are able to share our stories and trust each other such that we share parts of our lives together.</td>
-    <td>The purpose is to love closed ones by sharing life together.</td>
+    <td>My goal is maintain close friendship with 12 people maximum, to respect them such that we are able to share our stories and trust each other such that we share parts of our lives together. The purpose is to love closed ones by sharing life together.</td>
     <td><ul>
     <li>Interaction. Prioritising real conversation over social media.</li>
     <li>Schedule. Always schedule the next meet up after seeing friends.</li>
     <li>Initiate. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>  
+    </ul></td>
+    <td><ul>
+    <li>Have one real conversation everyday.</li>
     </ul></td>
   </tr>
 </table>
@@ -86,12 +88,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal to be able to articulate and explain the steps towards my vision for human progress.</td>
-    <td>My purpose is to love universally and dedicate to a vision for a better humanity.</td>
+    <td>My goal to be able to articulate and explain the steps towards my vision for human progress. My purpose is to love universally and dedicate to a vision for a better humanity.</td>
     <td><ul>
     <li>History. Learning from big history and criticising it like Foucault.</li>
     <li>Philanthropy. Understanding how progress has actually been realised.</li>
     <li>Philosophy/Theology. Looking at humanity in the first principles, what human nature is and the ideals that are innate to us.</li>
+    </ul></td>
+    <td><ul>
+    <li>blah</li>
     </ul></td>
   </tr>
 </table>
@@ -100,12 +104,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to be present with my experience, but remaining rationally optimistic everyday.</td>
-    <td>My purpose is to truly love myself and be a whole person.</td>
+    <td>My goal is to be present with my experience, but remaining rationally optimistic everyday. My purpose is to truly love myself and be a whole person.</td>
     <td><ul>
     <li>Meditation. Using the Headspace App and breathing techniques to experience, but not be swept away by emotions.</li>
     <li>CBT. Recognising thought patterns and training to think rationally, as well as optimistically. Instead of being unnecessarily anxious.</li>
     <li>Character. Reconnecting with my values and being compassionate with my fears, needs.</li>
+    </ul></td>
+    <td><ul>
+    <li>Meditate everyday.</li>
     </ul></td>
   </tr>
 </table>
@@ -118,12 +124,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to be disciplined in work.</td>
-    <td>My purpose is to labour efficiently and effectively.</td>
+    <td>My goal is to be disciplined in work. My purpose is to labour efficiently and effectively.</td>
     <td><ul>
     <li>Time. Committed to working deeply for 3 hours everyday.</li>
     <li>Attention. Removing any distractions while working by using RescueTime and Google Calendar.</li>
-    <li>Intensity. Having a morning ritual to get into flow state quickly.</li>
+    <li>Intensity. Getting into flow state quickly.</li>
+    </ul></td>
+    <td><ul>
+    <li>Pomodoro Technique.</li>
     </ul></td>
   </tr>
 </table>
@@ -132,13 +140,15 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to be able to learn quickly and well.</td>
-    <td>My purpose is to learn and become more skilful, that is the subject of labour.</td>
+    <td>My goal is to be able to learn quickly and well. My purpose is to learn and become more skilful, that is the subject of labour.</td>
     <td><ul>
     <li>Feynman. Using the Feynman technique to explain things well.</li>
     <li>Roam. Using Roam Research to make connections between bits of information.</li>
     <li>Debate. Using knowledge to apply to different problems and explore the nuances of the knowledge.</li>
     <li>Read. Using only the most important materials and reading with special techniques.</li>
+    </ul></td>
+    <td><ul>
+    <li>Create completion criteria for Semester 2 grades.</li>
     </ul></td>
   </tr>
 </table>
@@ -147,8 +157,12 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to be an academic that promotes justice through law.</td>
-    <td>My purpose is to effect positive change, that is the reward of labour.</td>
-    <td>I prepare</td>
+    <td>My goal is to be an academic that promotes justice through law. My purpose is to effect positive change, that is the reward of labour.</td>
+    <td><ul>
+    <li>blah</li>
+    </ul></td>
+    <td><ul>
+    <li>blah</li>
+    </ul><td>
   </tr>
 </table>
