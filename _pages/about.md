@@ -13,7 +13,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <th colspan="3">Hike</th>
+    <th colspan="3">HIKE</th>
   </tr>
   <tr>
     <td>My goal is to go on backpack across a trail in the United States.</td>
@@ -21,7 +21,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td>I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
   </tr>
   <tr>
-    <th colspan="3">Harvest</th>
+    <th colspan="3">HARVEST</th>
   </tr>
   <tr>
     <td>My goal is to cultivate a self-sustainable garden that provides food and medicine.</td>
@@ -29,7 +29,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td>I prepare for this by cooking fresh foods and taking steps to monitor my resource consumption.</td>
   </tr>
   <tr>
-    <th colspan="3">Home</th>
+    <th colspan="3">HOME</th>
   </tr>
   <tr>
     <td>My goal is to build a home or cafe where people can relax.</td>
@@ -42,14 +42,60 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 ## <a id="love" class="no-hov">Love</a>
 
-1.	Relations. To love closed ones by sharing life together.
-2.	Religion. To love universally and dedicate to a vision for a better humanity.
-3.	Reflection. To truly love myself and be a whole person.
+<table style="width:100%">
+  <tr>
+    <th colspan="3">RELATIONS</th>
+  </tr>
+  <tr>
+    <td>My goal is</td>
+    <td>The purpose is to love closed ones by sharing life together.</td>
+    <td>I prepare for this by.</td>
+  </tr>
+  <tr>
+    <th colspan="3">RELIGION</th>
+  </tr>
+  <tr>
+    <td>My goal is</td>
+    <td>My purpose is to love universally and dedicate to a vision for a better humanity.</td>
+    <td>I prepare for this by</td>
+  </tr>
+  <tr>
+    <th colspan="3">REFLECTION</th>
+  </tr>
+  <tr>
+    <td>My goal is</td>
+    <td>My purpose is to truly love myself and be a whole person.</td>
+    <td>I prepare for this</td>
+  </tr>
+</table>
 
 ----
 
 ## <a id="labour" class="no-hov">Labour</a>
 
-1.	System. To labour efficiently and effectively.
-2.	Study. To learn and become more skilful, that is the subject of labour.
-3.	Serve. To effective positive change, that is the reward of labour.
+<table style="width:100%">
+  <tr>
+    <th colspan="3">SYSTEM</th>
+  </tr>
+  <tr>
+    <td>My goal</td>
+    <td>My purpose is to labour efficiently and effectively.</td>
+    <td>I prepare</td>
+  </tr>
+  <tr>
+    <th colspan="3">STUDY</th>
+  </tr>
+  <tr>
+    <td>My goal</td>
+    <td>My purpose is to learn and become more skilful, that is the subject of labour.</td>
+    <td>I prepare</td>
+  </tr>
+  <tr>
+    <th colspan="3">SERVE</th>
+  </tr>
+  <tr>
+    <td>My goal</td>
+    <td>My purpose is to effect positive change, that is the reward of labour.</td>
+    <td>I prepare</td>
+  <tr>
+</table>
