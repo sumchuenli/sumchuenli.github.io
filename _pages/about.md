@@ -81,9 +81,13 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is</td>
+    <td>My goal to be able to articulate and explain the steps towards my vision for human progress.</td>
     <td>My purpose is to love universally and dedicate to a vision for a better humanity.</td>
-    <td>I prepare for this by</td>
+    <td><ul>
+    <li>History. Learning from big history and criticising it like Foucault.</li>
+    <li>Philanthropy. Understanding how progress has actually been realised.</li>
+    <li>Philosophy/Theology. Looking at humanity in the first principles, what human nature is and the ideals that are innate to us.</li>
+    </ul></td>
   </tr>
 </table>
 
