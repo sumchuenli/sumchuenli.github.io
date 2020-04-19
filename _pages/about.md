@@ -95,9 +95,13 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is</td>
+    <td>My goal is to be present with my experience, but remaining rationally optimistic everyday.</td>
     <td>My purpose is to truly love myself and be a whole person.</td>
-    <td>I prepare for this</td>
+    <td><ul>
+    <li>Meditation. Using the Headspace App and breathing techniques to experience, but not be swept away by emotions.</li>
+    <li>CBT. Recognising thought patterns and training to think rationally, as well as optimistically. Instead of being unnecessarily anxious.</li>
+    <li>Character. Reconnecting with my values and being compassionate with my fears, needs.</li>
+    </ul></td>
   </tr>
 </table>
 
