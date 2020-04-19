@@ -28,10 +28,15 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td style="padding:5px 5px 5px 5px">The purpose is to live in a way that respects natural systems and achieves abundance.</td>
     <td style="padding:5px 5px 5px 5px">I prepare for this by cooking fresh foods and taking steps to monitor my resource consumption.</td>
   </tr>
+  <tr>
+    <th colspan="3">Home</th>
+  </tr>
+  <tr>
+    <td style="padding:5px 5px 5px 5px">My goal is to build a home or cafe where people can relax.</td>
+    <td style="padding:5px 5px 5px 5px">The purpose is to experience a joy that rests, to celebrate life as it is.</td>
+    <td style="padding:5px 5px 5px 5px">I prepare for this by having a rest routine and cleaning my room.</td>
+  </tr>
 </table>
-
-2.	Harvest. T
-3.	Home. To experience a joy that rests, to celebrate life as it is.
 
 ----
 
