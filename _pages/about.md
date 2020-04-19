@@ -97,5 +97,5 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td>My goal</td>
     <td>My purpose is to effect positive change, that is the reward of labour.</td>
     <td>I prepare</td>
-  <tr>
+  </tr>
 </table>
