@@ -15,14 +15,16 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to go on backpack across a trail in the United States.</td>
-    <td>The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
+    <td>My goal is to go on backpack across a trail in the United States. The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
     <td><ul>
     <li>Run. Usually around the block. Preferably on the trail. My longest road race is 10km.</li>
     <li>Warm up. Following the Mueller system.</li>
     <li>Cross training. Used to be a Crossfit regular, now I skip rope or do bodyweight circuit training.</li>
     <li>Sports. I enjoy playing badminton and table tennis.</li>
     <li>Chores. Doing chores is a good way to get up and about.</li>
+    </ul></td>
+    <td><ul>
+    <li>Exercise at least once a day.</li>
     </ul></td>
   </tr>
 </table>
@@ -31,14 +33,16 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to cultivate a self-sustainable garden that provides food and medicine.</td>
-    <td>The purpose is to live in a way that respects natural systems and achieves abundance.</td>
+    <td>My goal is to cultivate a self-sustainable garden that provides food and medicine. The purpose is to live in a way that respects natural systems and achieves abundance.</td>
     <td><ul>
     <li>Cook. Cooking over packaged foods or restaurant food which produces more waste.</li>
     <li>Plant. Coming Soon - getting a plot of land in university and testing my green thumb.</li>
-    <li>Monitor. Monitoring electricity and water consumption.</li>
+    <li>Monitor. Monitoring electricity and water consumption, whilst having a relatively hygienic and comfortable life.</li>
     <li>Recycle. Sort out any trash and use products that are biodegradable.</li>
     <li>Transport. Use public transport always, hopefully in future I can live in a place where cycling is possible.</li>
+    </ul></td>
+    <td><ul>
+    <li>Eat vegetables every meal.</li>
     </ul></td>
   </tr>
 </table>
@@ -47,13 +51,15 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to build a home filled with my favourite things and people.</td>
-    <td>The purpose is to experience a joy that rests, to celebrate life as it is.</td>
+    <td>My goal is to build a home filled with my favourite things and people. The purpose is to experience a joy that rests, to celebrate life as it is.</td>
     <td><ul>
     <li>Sleep. Follow a regular sleep schedule that allows for 8 hours rest.</li>
     <li>Location. Have my own room, possibly moving to dorms next year!</li>
     <li>Tangibles. Buying second hand things and keeping things minimal.</li>
     <li>Memories. Collecting photos, journal entries and music, this is how I remembering things.</li>
+    </ul></td>
+    <td><ul>
+    <li>Perform a cleaning ritual everyday.</li>
     </ul></td>
   </tr>
 </table>
