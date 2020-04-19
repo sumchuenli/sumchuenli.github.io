@@ -124,12 +124,17 @@ a {
 
 /* Override hover animation with no-hov class */
 a.no-hov {
+
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+
 	&:after {
 		content: none
 	}
 
 	&:hover {
-		color: $c-accent__darkblue
+		color: black
 	}
 }
 
