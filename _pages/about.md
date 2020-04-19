@@ -13,7 +13,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <th colspan="3">HIKE</th>
+    <th colspan="3" style="letter-spacing:0.1rem">HIKE</th>
   </tr>
   <tr>
     <td class="c1">My goal is to go on backpack across a trail in the United States.</td>
@@ -21,7 +21,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td class="c2">I prepare for this by going running, preferably on the trail but not always. My longest race so far is 10km. I also enjoy doing circuit training or Crossfit to improve general fitness.</td>
   </tr>
   <tr>
-    <th colspan="3">HARVEST</th>
+    <th colspan="3" style="letter-spacing:0.1rem">HARVEST</th>
   </tr>
   <tr>
     <td class="c1">My goal is to cultivate a self-sustainable garden that provides food and medicine.</td>
@@ -29,7 +29,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td class="c2">I prepare for this by cooking fresh foods and taking steps to monitor my resource consumption.</td>
   </tr>
   <tr>
-    <th colspan="3">HOME</th>
+    <th colspan="3" style="letter-spacing:0.1rem">HOME</th>
   </tr>
   <tr>
     <td class="c1">My goal is to build a home or cafe where people can relax.</td>
@@ -44,7 +44,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <th colspan="3">RELATIONS</th>
+    <th colspan="3" style="letter-spacing:0.1rem">RELATIONS</th>
   </tr>
   <tr>
     <td class="c1">My goal is</td>
@@ -52,7 +52,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td class="c2">I prepare for this by.</td>
   </tr>
   <tr>
-    <th colspan="3">RELIGION</th>
+    <th colspan="3" style="letter-spacing:0.1rem">RELIGION</th>
   </tr>
   <tr>
     <td class="c1">My goal is</td>
@@ -60,7 +60,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td class="c2">I prepare for this by</td>
   </tr>
   <tr>
-    <th colspan="3">REFLECTION</th>
+    <th colspan="3" style="letter-spacing:0.1rem">REFLECTION</th>
   </tr>
   <tr>
     <td class="c1">My goal is</td>
@@ -75,7 +75,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <th colspan="3">SYSTEM</th>
+    <th colspan="3" style="letter-spacing:0.1rem">SYSTEM</th>
   </tr>
   <tr>
     <td class="c1">My goal</td>
@@ -83,7 +83,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td class="c2">I prepare</td>
   </tr>
   <tr>
-    <th colspan="3">STUDY</th>
+    <th colspan="3" style="letter-spacing:0.1rem">STUDY</th>
   </tr>
   <tr>
     <td class="c1">My goal</td>
@@ -91,7 +91,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     <td class="c2">I prepare</td>
   </tr>
   <tr>
-    <th colspan="3">SERVE</th>
+    <th colspan="3" style="letter-spacing:0.1rem">SERVE</th>
   </tr>
   <tr>
     <td class="c1">My goal</td>
