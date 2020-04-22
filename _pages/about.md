@@ -5,7 +5,7 @@ permalink: /life/
 
 This is a comprehensive snapshot of my life and it is inspired by [Alex Vermeer](https://alexvermeer.com/life-hacking/).
 
-My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a href="#labour">labouring</a> meaningfully. It is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
+My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a href="#labour">labouring</a> meaningfully. Why? Because I believe that while life is full of difficulties, it is possible to help everyone flourish, individually and as a whole. My life is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
 
 ----
 
@@ -15,13 +15,11 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to go on backpack across a trail in the United States. The purpose is to rely on the physical self, realise the potential within us that comes from living.</td>
+    <td>My dream is to go on backpack across a trail in the United States and learn basic bushcraft. The meaning behind it is to rely on the physical self, realise the potential within us that comes from simply living. Our body is the vessel of our identity and there are many unexpected demands on it, even in the modern world.</td>
     <td><ul>
-    <li>Run. Usually around the block. Preferably on the trail. My longest road race is 10km.</li>
-    <li>Warm up. Following the Mueller system.</li>
-    <li>Cross training. Used to be a Crossfit regular, now I skip rope or do bodyweight circuit training.</li>
-    <li>Sports. I enjoy playing badminton and table tennis.</li>
-    <li>Chores. Doing chores is a good way to get up and about.</li>
+    <li>Endurance. Running around the block usually. Preferably hike or run on the trail. My longest road race is 10km.</li>
+    <li>General Fitness. Used to be a Crossfit regular, now I do circuit training with basic equipment such as jump rope and dumbbell.</li>
+    <li>Stretch. Following the Mueller system for warm up.</li>
     </ul></td>
     <td><ul>
     <li>Exercise at least once a day.</li>
@@ -51,7 +49,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to build a home filled with my favourite things and people. The purpose is to experience a joy that rests, to celebrate life as it is.</td>
+    <td>My goal is to build a home filled with my favourite things and cultivate an attitude of gratitude. The meaning behind it is to experience a joy that rests, to celebrate life as it is. To appreciate what is in the moment.</td>
     <td><ul>
     <li>Sleep. Follow a regular sleep schedule that allows for 8 hours rest.</li>
     <li>Location. Have my own room, possibly moving to dorms next year!</li>
@@ -106,6 +104,8 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
   <tr>
     <td>My goal is to be present with my experience, but remaining rationally optimistic everyday. My purpose is to truly love myself and be a whole person.</td>
     <td><ul>
+    <li>Present. What is the accurate reality? What am I doing now?</li>
+    <li>Values. Why is this inherently good, the process of discovering myself? What is meaningful and satisfactory about this?</li>
     <li>Meditation. Using the Headspace App and breathing techniques to experience, but not be swept away by emotions.</li>
     <li>CBT. Recognising thought patterns and training to think rationally, as well as optimistically. Instead of being unnecessarily anxious.</li>
     <li>Character. Reconnecting with my values and being compassionate with my fears, needs.</li>
@@ -163,6 +163,6 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
     </ul></td>
     <td><ul>
     <li>blah</li>
-    </ul><td>
+    </ul></td>
   </tr>
 </table>
