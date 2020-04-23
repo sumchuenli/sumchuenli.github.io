@@ -1,11 +1,11 @@
 ---
 layout: content
-title: Projects
 permalink: /projects/
 ---
 
-Show off your projects here!
-- [Awesome Project]()
+I am currently working:
+
+- [This Website]()
 - [Cool Project]()
 - [New Project]()
 - [Old Project]()
@@ -15,4 +15,3 @@ Show off your projects here!
 
 # Talks
 - How to ????
-

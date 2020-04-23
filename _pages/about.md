@@ -5,7 +5,9 @@ permalink: /life/
 
 This is a comprehensive snapshot of my life and it is inspired by [Alex Vermeer](https://alexvermeer.com/life-hacking/).
 
-My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a href="#labour">labouring</a> meaningfully. Why? Because I believe everyone, individually and as a whole, has a potential that can be discovered and realised. There is a great satisfaction to experience and help others on this journey of human flourishing. My life is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
+My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a href="#labour">labouring</a> meaningfully. It is meaningful to discover and realise the potential within us, as individuals and as a humanity.
+
+My life is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
 
 ----
 
@@ -15,14 +17,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My dream is to go on backpack across a trail in the United States and learn basic bushcraft. The meaning behind it is to rely on our physical self, which is the vessel of our identity and to train it, for there are many unexpected demands on it even in the modern world.</td>
+    <td>My dream is to go on backpack across a trail in the United States and learn basic survival skills. The meaning behind it is to rely on our physical self, which is the vessel of our identity and to train it, for there are many unexpected demands on it even in the modern world.</td>
     <td><ul>
     <li>Endurance. Running around the block usually. Preferably hike or run on the trail. My longest road race is 10km.</li>
-    <li>General Fitness. Used to be a Crossfit regular, now I do circuit training with basic equipment such as jump rope and dumbbell.</li>
-    <li>Stretch. Following the Mueller system for warm up.</li>
+    <li>General Fitness. Used to be a Crossfit regular, now I do WODS at home with basic equipment: jump rope and dumbbell.</li>
     </ul></td>
     <td><ul>
-    <li>Exercise at least once a day.</li>
+    <li>Distance.</li>
+    <li>1RM. Using <a href="https://www.wodup.com/sonderli">WodUp</a>.</li>
     </ul></td>
   </tr>
 </table>
@@ -31,16 +33,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to cultivate a self-sustainable garden that provides food and medicine. The purpose is to live in a way that respects natural systems and achieves abundance.</td>
+    <td>My goal is to cultivate a self-sustainable garden and have good understanding of the natural world. The meaning behind it is to be sufficient without harming others.</td>
     <td><ul>
-    <li>Cook. Cooking over packaged foods or restaurant food which produces more waste.</li>
-    <li>Plant. Coming Soon - getting a plot of land in university and testing my green thumb.</li>
-    <li>Monitor. Monitoring electricity and water consumption, whilst having a relatively hygienic and comfortable life.</li>
-    <li>Recycle. Sort out any trash and use products that are biodegradable.</li>
-    <li>Transport. Use public transport always, hopefully in future I can live in a place where cycling is possible.</li>
+    <li>Consumption. Less water, more biodiversity. Less meat, more vegetables. Less electricity, more sunlight. Less gas, more cycling.</li>
+    <li>Waste. Less trash, buy less, less packaging. Less pollution, biodegradable items.</li>
     </ul></td>
     <td><ul>
-    <li>Eat vegetables every meal.</li>
+    <li>Items. Never increasing the total number of items.</li>
+    <li>Food. List of my favourite meals.</li>
     </ul></td>
   </tr>
 </table>
@@ -51,13 +51,12 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
   <tr>
     <td>My goal is to build a home filled with my favourite things and cultivate an attitude of gratitude. The meaning behind it is to experience a joy that rests, to celebrate life as it is. To appreciate what is in the moment.</td>
     <td><ul>
-    <li>Sleep. Follow a regular sleep schedule that allows for 8 hours rest.</li>
-    <li>Location. Have my own room, possibly moving to dorms next year!</li>
-    <li>Tangibles. Buying second hand things and keeping things minimal.</li>
-    <li>Memories. Collecting photos, journal entries and music, this is how I remembering things.</li>
+    <li>Gratitude. Things that I appreciate in the moment.</li>
+    <li>Excitement. Things that I look forward to do.</li>
     </ul></td>
     <td><ul>
-    <li>Perform a cleaning ritual everyday.</li>
+    <li>Gratitude.</li>
+    <li>Rest.</li>
     </ul></td>
   </tr>
 </table>
@@ -72,12 +71,11 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
   <tr>
     <td>My goal is maintain close friendship with 12 people maximum, to respect them such that we are able to share our stories and trust each other such that we share parts of our lives together. The purpose is to love closed ones by sharing life together.</td>
     <td><ul>
-    <li>Interaction. Prioritising real conversation over social media.</li>
-    <li>Schedule. Always schedule the next meet up after seeing friends.</li>
-    <li>Initiate. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>  
+    <li>Time. Prioritising real conversation over social media. Always schedule the next meet up after seeing friends.</li>
+    <li>Care. Demonstrate that you care. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>  
     </ul></td>
     <td><ul>
-    <li>Have one real conversation everyday.</li>
+    <li>blah</li>
     </ul></td>
   </tr>
 </table>
@@ -88,9 +86,8 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
   <tr>
     <td>My goal to be able to articulate and explain the steps towards my vision for human progress. My purpose is to love universally and dedicate to a vision for a better humanity.</td>
     <td><ul>
-    <li>History. Learning from big history and criticising it like Foucault.</li>
     <li>Philanthropy. Understanding how progress has actually been realised.</li>
-    <li>Philosophy/Theology. Looking at humanity in the first principles, what human nature is and the ideals that are innate to us.</li>
+    <li>Philosophy/Theology/History. Looking at humanity in the first principles, what human nature is and the ideals that are innate to us.</li>
     </ul></td>
     <td><ul>
     <li>blah</li>
@@ -104,14 +101,12 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
   <tr>
     <td>My goal is to be present with my experience, but remaining rationally optimistic everyday. My purpose is to truly love myself and be a whole person.</td>
     <td><ul>
-    <li>Present. What is the accurate reality? What am I doing now?</li>
-    <li>Values. Why is this inherently good, the process of discovering myself? What is meaningful and satisfactory about this?</li>
-    <li>Meditation. Using the Headspace App and breathing techniques to experience, but not be swept away by emotions.</li>
-    <li>CBT. Recognising thought patterns and training to think rationally, as well as optimistically. Instead of being unnecessarily anxious.</li>
-    <li>Character. Reconnecting with my values and being compassionate with my fears, needs.</li>
+    <li>Present. What is the accurate reality? What am I doing now? What are my fears and needs?</li>
+    <li>Calm. Solving problems rationally and optimistically.</li>
     </ul></td>
     <td><ul>
-    <li>Meditate everyday.</li>
+    <li>Journal.</li>
+    <li>Meditation.</li>
     </ul></td>
   </tr>
 </table>
@@ -124,14 +119,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to be disciplined in work. My purpose is to labour efficiently and effectively.</td>
+    <td>My goal is to be disciplined person. My purpose is to know at the end of the day that I gave everything I had .</td>
     <td><ul>
-    <li>Time. Committed to working deeply for 3 hours everyday.</li>
-    <li>Attention. Removing any distractions while working by using RescueTime and Google Calendar.</li>
-    <li>Intensity. Getting into flow state quickly.</li>
+    <li>Time.</li>
+    <li>Attention.</li>
     </ul></td>
     <td><ul>
-    <li>Pomodoro Technique.</li>
+    <li>Calendar, RescueTime.</li>
+    <li>Roam Research, Google.</li>
     </ul></td>
   </tr>
 </table>
@@ -140,15 +135,14 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My goal is to be able to learn quickly and well. My purpose is to learn and become more skilful, that is the subject of labour.</td>
+    <td>My goal is to create a website to share my understanding with others. My purpose is to learn and become more skilful, that is the subject of labour.</td>
     <td><ul>
-    <li>Feynman. Using the Feynman technique to explain things well.</li>
-    <li>Roam. Using Roam Research to make connections between bits of information.</li>
+    <li>Read.</li>
     <li>Debate. Using knowledge to apply to different problems and explore the nuances of the knowledge.</li>
-    <li>Read. Using only the most important materials and reading with special techniques.</li>
     </ul></td>
     <td><ul>
-    <li>Create completion criteria for Semester 2 grades.</li>
+    <li>Books.</li>
+    <li>Website.</li>
     </ul></td>
   </tr>
 </table>
