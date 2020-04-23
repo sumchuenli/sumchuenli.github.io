@@ -5,7 +5,7 @@ permalink: /life/
 
 This is a comprehensive snapshot of my life and it is inspired by [Alex Vermeer](https://alexvermeer.com/life-hacking/).
 
-My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a href="#labour">labouring</a> meaningfully. Why? Because I believe that while life is full of difficulties, it is possible to help everyone flourish, individually and as a whole. My life is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
+My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a href="#labour">labouring</a> meaningfully. Why? Because I believe everyone, individually and as a whole, has a potential that can be discovered and realised. There is a great satisfaction to experience and help others on this journey of human flourishing. My life is guided by my values of independence, resilience and reverence. Independence means discovering the things meaningful to me and practicing my way of life. Resilience means taking actions consistently and persevering through challenges. Reverence means dedicating to a grand vision that betters the interests of others.
 
 ----
 
@@ -15,7 +15,7 @@ My life is about <a href="#live">living</a>, <a href="#love">loving</a> and <a h
 
 <table style="width:100%">
   <tr>
-    <td>My dream is to go on backpack across a trail in the United States and learn basic bushcraft. The meaning behind it is to rely on the physical self, realise the potential within us that comes from simply living. Our body is the vessel of our identity and there are many unexpected demands on it, even in the modern world.</td>
+    <td>My dream is to go on backpack across a trail in the United States and learn basic bushcraft. The meaning behind it is to rely on our physical self, which is the vessel of our identity and to train it, for there are many unexpected demands on it even in the modern world.</td>
     <td><ul>
     <li>Endurance. Running around the block usually. Preferably hike or run on the trail. My longest road race is 10km.</li>
     <li>General Fitness. Used to be a Crossfit regular, now I do circuit training with basic equipment such as jump rope and dumbbell.</li>
