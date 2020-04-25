@@ -24,7 +24,7 @@ My life is guided by my values of independence, resilience and reverence. Indepe
     </ul></td>
     <td><ul>
     <li>Distance.</li>
-    <li>1RM. Using <a href="https://www.wodup.com/sonderli">WodUp</a>.</li>
+    <li><a href="{{ "/workout/" }}">1RM.</a></li>
     </ul></td>
   </tr>
 </table>
