@@ -4,4 +4,3 @@ permalink: /gratitude/
 ---
 
 - Hugs from YKW
-- 
