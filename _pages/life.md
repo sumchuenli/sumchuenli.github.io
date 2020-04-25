@@ -53,9 +53,9 @@ My life is guided by my values of independence, resilience and reverence. Indepe
     <td><ul>
     <li>Gratitude. Things that I appreciate in the moment.</li>
     <li>Excitement. Things that I look forward to do.</li>
-    </ul></td>
+    </ul></td>ß
     <td><ul>
-    <li>Gratitude.</li>
+    <li><a href="{{ "/gratitude/" }}">Gratitude.</a></li>
     <li>Rest.</li>
     </ul></td>
   </tr>
