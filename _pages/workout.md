@@ -1,4 +1,4 @@
-we—
+---
 layout: content
 title: Workout
 permalink: /workout/
