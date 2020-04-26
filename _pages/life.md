@@ -39,7 +39,7 @@ My life is guided by my values of independence, resilience and reverence. Indepe
     <li>Waste. Less trash, buy less, less packaging. Less pollution, biodegradable items.</li>
     </ul></td>
     <td><ul>
-    <li>Items. Never increasing the total number of items.</li>
+    <li><a href="{{ "/possessions/" }}">Possessions.</a></li>
     <li>Food. List of my favourite meals.</li>
     </ul></td>
   </tr>
