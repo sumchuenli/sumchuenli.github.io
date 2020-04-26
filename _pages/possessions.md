@@ -9,7 +9,7 @@ SH = Second Hand
 ### Work
 
 - Varmilo Miya Pro Mechanical Keyboard (SH), customised by Ukelele and Karabiner-Elements.
-- Macbook Air 2019, original charger.
+- Macbook Air 2019, MOFT Z Sit-Stand Desk, original charger.
 - iPhone 7, Nomad Rugged Case, Nomad Battery Cable.
 
 ### Health
