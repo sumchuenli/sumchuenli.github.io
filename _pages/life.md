@@ -125,6 +125,7 @@ My life is guided by my values of independence, resilience and reverence. Indepe
     <li>Attention.</li>
     </ul></td>
     <td><ul>
+    <li><a href="{{ "/hours/" }}">Deep Work Hours.</a></li>
     <li>Calendar, RescueTime.</li>
     <li>Roam Research, Google.</li>
     </ul></td>
