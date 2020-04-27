@@ -7,3 +7,5 @@ permalink: /food/
 - Frozen Blueberries
 - Seaweed
 - Coffee
+- Peanut Butter
+- Eggs
