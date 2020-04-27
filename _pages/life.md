@@ -40,7 +40,7 @@ My life is guided by my values of independence, resilience and reverence. Indepe
     </ul></td>
     <td><ul>
     <li><a href="{{ "/possessions/" }}">Possessions.</a></li>
-    <li>Food. List of my favourite meals.</li>
+    <li><a href="{{ "/food/" }}">Food.</a></li>
     </ul></td>
   </tr>
 </table>
