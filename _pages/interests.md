@@ -4,24 +4,60 @@ title: Interests
 permalink: /interests/
 ---
 
-
-- Outdoors/Survival
-  - [Darwin](https://www.youtube.com/channel/UC18exdGWh7piVWisrnDXiZg)
-  - [Elina Osborne](https://www.youtube.com/user/elinabox/featured)
-  - [Dixie](https://www.youtube.com/channel/UCQhqmV26773qZhzqJz4VFcw)
-  - [Lurgi](https://hkoutdooradventures.com)
-- Woodworking
-- Running
-  - Des Linden
-  - Eluid Kipchoge
-- Vintage/Thrift-Store
-- Sleep
-- Food/Gardening
-  - [Rob Greenfield](https://www.youtube.com/user/RobJGreenfield)
-  - Michael Pollan
-- Climbing
-  - Alex Honnold
+- Frugal Living
+  - Apple Watch
+  - Victorinox Knife
+  - Notebooks
+  - Fountain Pens
+  - Mechanical Keyboard
+  - Cabins
+- Sports
+  - Hiking/Camping/Backpacking
+    - [Darwin](https://www.youtube.com/channel/UC18exdGWh7piVWisrnDXiZg)
+    - [Elina Osborne](https://www.youtube.com/user/elinabox/featured)
+    - [Dixie](https://www.youtube.com/channel/UCQhqmV26773qZhzqJz4VFcw)
+    - [Lurgi](https://hkoutdooradventures.com)
+    - [Tim Kellner](https://www.youtube.com/user/TimtotheWild/featured)
+    - [Jupiter](https://www.youtube.com/channel/UCTY6PJNvuO49nIG-aWSVLJQ)
+    - [Beau Miles](https://www.youtube.com/channel/UCm325cMiw9B15xl22_gr6Dw/videos)
+  - Figure Skating
+  - Climbing
+    - Alex Honnold
+  - Running
+    - Des Linden
+    - Eluid Kipchoge
+    - [Elijah Orr](https://www.youtube.com/channel/UC2xCiwFqaYTmweSJ7p2UzcA)
+- DIY
+  - Gardening
+    - [Rob Greenfield](https://www.youtube.com/user/RobJGreenfield)
+  - Cooking
+    - Michael Pollan
+  - Coffee
+  - Leatherwork
+  - Penmanship
+  - Coding
+  - Woodworking
 - Self
   - [Crawford Family](https://www.youtube.com/channel/UCT2WgHiawhWgbahB0CNENkg)
   - [Nathaniel Drew](https://www.youtube.com/channel/UCrdWRLq10OHuy7HmSckV3Vg)
   - [Anne McCarthy](https://nomad.blog/)
+  - Effective Altruism
+  - IAmA
+- Other
+  - Books
+  - Music
+  - Sleep
+  - Podcasts
+  - Team SoloMid
+- Topics
+  - Machine Learning
+  - Privacy
+  - Law
+- Productivity
+  - Deep Work
+  - Explain Like I Am 5
+  - Discipline
+  - Motivation
+  - LifeHacks/LifeProTips
+  - NoZero/NoSurf
+  - TodayILearned
