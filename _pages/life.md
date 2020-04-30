@@ -75,7 +75,7 @@ My life is guided by my values of independence, resilience and reverence. Indepe
     <li>Care. Demonstrate that you care. Never have idols - those people are not real, I take the initiative to contact those people who I am not connected to and start a conversation.</li>  
     </ul></td>
     <td><ul>
-    <li><a href="{{ "/rolemodels/" }}">Role Models.</a></li>
+    <li>blah</li>
     </ul></td>
   </tr>
 </table>
