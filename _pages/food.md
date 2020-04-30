@@ -9,3 +9,8 @@ permalink: /food/
 - Coffee
 - Peanut Butter
 - Eggs
+- Kiwi
+- Beef Brisket
+- Steak
+- Honey Ham/Turkey
+- Orange
